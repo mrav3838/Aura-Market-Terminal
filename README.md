@@ -2,7 +2,8 @@
 
 A production-grade, full-stack quantitative finance application built to predict short-term equity trajectories using machine learning and Wall Street-grade technical analysis.
 
-**[Live Dashboard Deployment]** *(Insert your Streamlit Cloud link here)*
+**[Live Dashboard Deployment]** 
+(https://aura-market-terminal.streamlit.app/)
 
 ---
 
