@@ -5,3 +5,4 @@ numpy
 plotly
 ta
 scikit-learn
+https://github.com/rongardF/tvdatafeed/archive/refs/heads/main.zip
