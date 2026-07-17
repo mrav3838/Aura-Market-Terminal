@@ -64,7 +64,7 @@ ticker_dict = {
         "Eicher Motors": "EICHERMOT.NS", "Apollo Hospitals": "APOLLOHOSP.NS"
     }
 }
-
+st.caption("⚡ Live market data may be subject to exchange-mandated delays for non-institutional connections.")
 # ---------------------------------------------------------
 # 3. INTERACTIVE SEARCH CONTROL ROOM
 # ---------------------------------------------------------
