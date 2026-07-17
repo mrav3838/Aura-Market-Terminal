@@ -124,6 +124,11 @@ y_train, y_test = y.iloc[:split_idx], y.iloc[split_idx:]
 
 # Fit high-capacity Random Forest model
 model = Ridge(alpha=1.0)
+# Diagnostic Probe
+st.write("Shape of X_train:", X_train.shape)
+st.write("Shape of y_train:", y_train.shape)
+
+# Your original code
 model.fit(X_train, y_train)
 
 # Predict test set and final day evaluation
